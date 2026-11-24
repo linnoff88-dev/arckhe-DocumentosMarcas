@@ -1,4 +1,4 @@
-﻿# Claude Code Skills Collection
+# Claude Code Skills Collection
 
 > **Transform documents into professionally-styled masterpieces with world-class brand aesthetics**
 
@@ -18,7 +18,7 @@ A comprehensive collection of Claude Code skills for document generation, stylin
 Open Claude Code anywhere and paste this:
 
 ```
-Clone https://github.com/inematds/DocumentosMarcas and set it up for me - install the Python environment, copy skills to ~/.claude/skills/, and test it works.
+Clone https://github.com/linnoff88-dev/DocumentosMarcas and set it up for me - install the Python environment, copy skills to ~/.claude/skills/, and test it works.
 ```
 
 ### More Prompts
@@ -355,4 +355,4 @@ Made with AI assistance
 
 ---
 
-Projeto adaptado da comunidade INEMA TDS - Marca Arckhe
+Projeto adaptado da comunidade ARCKHÉ TDS - Marca Arckhe
